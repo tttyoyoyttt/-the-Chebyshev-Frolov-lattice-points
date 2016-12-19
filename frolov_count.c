@@ -2,7 +2,7 @@
 #include <math.h>
 
 
-//This is the implementation of Algorithm 2 in the paper
+//This is the implementation of Algorithm 2 in the paper (arxiv:1612.05342)
 //"Enumeration of the Chebyshev-Frolov lattice points in axis-parallel boxes",
 //which counts the number of the Chebyshev-Frolov lattice points in [-1/2,1/2]^d for the scaling parameter N.
 //This is made by Kosuke Suzuki and Takehito Yoshiki.
